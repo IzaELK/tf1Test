@@ -1,0 +1,16 @@
+img{
+    border-radius: 8px
+}
+
+.carousel-card{
+    margin-inline: 12px;
+}
+
+.plus-button-container{
+    position: absolute;
+    right: 20px;
+    bottom: 45px;
+    background-color: #313132;
+    border-radius: 8;
+    display: flex,
+}

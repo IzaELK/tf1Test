@@ -1,0 +1,12 @@
+
+button{
+  background-color: #313132
+}
+
+.carousel.carousel-slider {
+    display: flex;
+    overflow: inherit;
+    align-items: center;
+  }
+
+  
